@@ -1,0 +1,6 @@
+REPORTE DEL WORKER DAEMON
+=========================
+ID del trabajo: 7
+Mensaje: Prueba de limites setrlimit
+Duración solicitada: 2 segundos
+Estado: Ejecutado correctamente

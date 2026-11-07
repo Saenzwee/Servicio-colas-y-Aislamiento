@@ -1,0 +1,6 @@
+REPORTE DEL WORKER DAEMON
+=========================
+ID del trabajo: 3
+Mensaje: Primera prueba de ejecucion en Ubuntu Server
+Duración solicitada: 5 segundos
+Estado: Ejecutado correctamente

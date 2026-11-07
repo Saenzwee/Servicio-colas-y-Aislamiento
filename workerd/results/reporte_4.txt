@@ -1,0 +1,6 @@
+REPORTE DEL WORKER DAEMON
+=========================
+ID del trabajo: 4
+Mensaje: Prueba de integracion API con Worker Daemon
+Duración solicitada: 5 segundos
+Estado: Ejecutado correctamente

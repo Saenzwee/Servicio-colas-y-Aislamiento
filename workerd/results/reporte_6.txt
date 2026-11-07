@@ -1,0 +1,6 @@
+REPORTE DEL WORKER DAEMON
+=========================
+ID del trabajo: 6
+Mensaje: Prueba final systemd Ubuntu Server
+Duración solicitada: 2 segundos
+Estado: Ejecutado correctamente

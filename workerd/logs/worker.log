@@ -1,0 +1,41 @@
+2026-11-06 12:31:39,505 - INFO - Iniciando trabajo 1 de tipo reporte
+2026-11-06 12:31:44,519 - INFO - Trabajo 1 completado correctamente
+2026-11-06 12:37:47,615 - INFO - Iniciando trabajo 2 de tipo reporte
+2026-11-06 12:37:50,648 - INFO - Trabajo 2 completado correctamente
+2026-11-07 17:42:49,786 - INFO - Iniciando trabajo 3 de tipo reporte
+2026-11-07 17:42:54,812 - INFO - Trabajo 3 completado correctamente
+2026-11-07 18:04:32,842 - INFO - Notificación recibida: {'event': 'test', 'mensaje': 'Prueba de comunicacion desde cliente'}
+2026-11-07 18:17:44,575 - INFO - Notificación recibida: {'event': 'job_created', 'job_id': 4}
+2026-11-07 18:17:44,854 - INFO - Iniciando trabajo 4 de tipo reporte
+2026-11-07 18:17:49,887 - INFO - Trabajo 4 completado correctamente
+2026-11-07 18:31:26,540 - INFO - Creando proceso hijo para trabajo 5
+2026-11-07 18:31:28,598 - INFO - Trabajo 5 completado. PID hijo: 3848
+2026-11-07 18:35:34,216 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:35:37,694 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:35:41,541 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:35:45,529 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:35:48,942 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:35:52,792 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:35:56,609 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:36:00,399 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:36:03,973 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:36:07,715 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:36:11,406 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:36:15,121 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:36:19,105 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:36:22,940 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:36:27,490 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:36:31,107 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:36:35,046 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:36:37,396 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:36:58,422 - INFO - Notificación recibida: {'event': 'job_created', 'job_id': 6}
+2026-11-07 18:36:59,476 - INFO - Creando proceso hijo para trabajo 6
+2026-11-07 18:37:01,512 - INFO - Trabajo 6 completado. PID hijo: 4577
+2026-11-07 18:41:27,225 - INFO - Notificación recibida: {'event': 'daemon_ready'}
+2026-11-07 18:41:51,614 - INFO - Notificación recibida: {'event': 'job_created', 'job_id': 7}
+2026-11-07 18:41:53,299 - INFO - Creando proceso hijo para trabajo 7
+2026-11-07 18:41:55,392 - INFO - Trabajo 7 completado. PID hijo: 4753
+2026-11-07 18:42:08,344 - INFO - Notificación recibida: {'event': 'job_created', 'job_id': 8}
+2026-11-07 18:42:09,434 - INFO - Creando proceso hijo para trabajo 8
+2026-11-07 18:42:24,439 - WARNING - Timeout del trabajo 8. Enviando SIGTERM.
+2026-11-07 18:42:24,555 - ERROR - Trabajo 8 terminado por timeout.

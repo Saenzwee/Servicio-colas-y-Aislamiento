@@ -1,0 +1,6 @@
+REPORTE DEL WORKER DAEMON
+=========================
+ID del trabajo: 2
+Mensaje: Prueba de ejecucion continua
+Duración solicitada: 3 segundos
+Estado: Ejecutado correctamente

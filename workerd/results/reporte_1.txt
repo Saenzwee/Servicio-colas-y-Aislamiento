@@ -1,0 +1,6 @@
+REPORTE DEL WORKER DAEMON
+=========================
+ID del trabajo: 1
+Mensaje: Generar reporte de prueba
+Duración solicitada: 5 segundos
+Estado: Ejecutado correctamente
